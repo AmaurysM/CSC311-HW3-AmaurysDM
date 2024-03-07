@@ -1,4 +1,4 @@
-package com.csc311.assignment3amaurysdm;
+package com.csc311.hw3amaurysdm;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
